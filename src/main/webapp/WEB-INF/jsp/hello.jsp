@@ -25,11 +25,11 @@
         </b>
     </p>
     <p>
-        <s:link beanclass="stripesbook.action.HelloActionBean"
+        <s:link beanclass="action.HelloActionBean"
                 event="currentDate">
                 Show the current date and time
         </s:link> |
-        <s:link beanclass="stripesbook.action.HelloActionBean"
+        <s:link beanclass="action.HelloActionBean"
                 event="randomDate">
             Show a random date and time
         </s:link>

@@ -7,7 +7,7 @@
  * Visit http://www.pragmaticprogrammer.com/titles/fdstr for more book information.
 ***/
 
-package stripesbook.model;
+package model;
 
 
 import java.text.ParseException;

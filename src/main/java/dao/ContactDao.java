@@ -7,11 +7,11 @@
  * Visit http://www.pragmaticprogrammer.com/titles/fdstr for more book information.
 ***/
 
-package stripesbook.dao;
+package dao;
 
 
 import java.util.Collection;
-import stripesbook.model.Contact;
+import model.Contact;
 
 
 public interface ContactDao {

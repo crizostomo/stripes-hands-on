@@ -1,4 +1,4 @@
-package stripesbook.action; /***
+package action; /***
  * Excerpted from "Stripes: and Java Web Development is Fun Again",
  * published by The Pragmatic Bookshelf.
  * Copyrights apply to this code. It may not be used to create training material,

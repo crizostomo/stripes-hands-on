@@ -10,7 +10,7 @@
     <init-param>
       <param-name>ActionResolver.Packages</param-name>
       <!--  (2)  -->
-      <param-value>stripesbook.action</param-value>
+      <param-value>action</param-value>
     </init-param>
   </filter>
   <servlet>

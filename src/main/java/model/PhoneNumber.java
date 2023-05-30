@@ -1,4 +1,4 @@
-package stripesbook.model;
+package model;
 
 public class PhoneNumber {
 	

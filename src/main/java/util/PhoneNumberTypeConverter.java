@@ -1,4 +1,4 @@
-package stripesbook.util;
+package util;
 
 import java.util.Collection;
 import java.util.Locale;
@@ -8,7 +8,7 @@ import java.util.regex.Pattern;
 import net.sourceforge.stripes.validation.SimpleError;
 import net.sourceforge.stripes.validation.TypeConverter;
 import net.sourceforge.stripes.validation.ValidationError;
-import stripesbook.model.PhoneNumber;
+import model.PhoneNumber;
 
 public class PhoneNumberTypeConverter implements TypeConverter<PhoneNumber> {
     private static final Pattern pattern = Pattern.compile("\\(?(\\d{3})\\)?[-. ]?(\\d{3})[-. ]?(\\d{4})");

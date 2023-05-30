@@ -1,8 +1,8 @@
-package stripesbook.dao;
+package dao;
 
 import java.util.*;
 
-import stripesbook.model.Contact;
+import model.Contact;
 
 public class MockContactDao implements ContactDao {
 
